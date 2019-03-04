@@ -1,0 +1,7 @@
+3 rovid plusz minusz
+gergelytaroly@gmail.com
+bzsr.web.elte.hu/OEP
+https://github.com/geri1245/cpp
+
+16db 2 változós logikai fg van 
+Kérdés mi a minimális számú logikai fgv, amivel ezek mind leirhatóak.
